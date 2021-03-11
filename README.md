@@ -1,2 +1,2 @@
-# kun.uz
+# kun
 kun.uz demosi
